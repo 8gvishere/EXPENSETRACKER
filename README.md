@@ -1,2 +1,2 @@
 # SIMPLECALCULATOR
-app that tracks your expenses every month. 
+An app that does simple calculations.
